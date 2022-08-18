@@ -1,2 +1,2 @@
-# majaribio
-repo ya kujifunza gitHub
+# Majaribio
+Repo ya kujifunza gitHub
